@@ -17,5 +17,5 @@ The notebook for this project meant to be viewed and executed in Google Colab:
      - We mount Google Drive because this is where models will be saved during training.
      - The models are useful for fetching and generating agent recordings later.
 1. Expand one or more of the algorithm sections and run the training. Once the agents learn a solution, plots will be generated showing the training performance.
-2. We have also embedded video recordings of the model navigating the LunarLander environment at the end of each algorithm section.
+2. For your convenience, we have also embedded video recordings of the model navigating the LunarLander environment at the end of each algorithm section.
    - These were based on the models that correspond to the existing output for each the algorithm sections.
